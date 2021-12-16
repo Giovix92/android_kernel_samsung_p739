@@ -60,6 +60,6 @@ obj-$(CONFIG_VIBTONZ)		+= vibtonz/
 obj-$(CONFIG_SENSORS_NCT1008)	+= nct1008.o
 obj-$(CONFIG_TEGRA_CRYPTO_DEV)	+= tegra-cryptodev.o
 obj-$(CONFIG_MAX1749_VIBRATOR)	+= max1749.o
-obj-$(CONFIG_DPRAM_CDMA)		+= dpram_cdma/
+#obj-$(CONFIG_DPRAM_CDMA)		+= dpram_cdma/
 
 
